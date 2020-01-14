@@ -1,0 +1,4 @@
+﻿  advance.cpp
+C:\Users\navid\source\repos\advance\advance\Calculator.h(143,26): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\navid\source\repos\advance\advance\Calculator.h(143,26): warning C4018: C:\Users\navid\source\repos\advance\advance\Calculator.h(91) : warning C4715: 'Calculator::finder': not all control paths return a value
+  advance.vcxproj -> C:\Users\navid\source\repos\advance\Debug\advance.exe
